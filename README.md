@@ -1,2 +1,2 @@
 # For-Orphanage
-draft strategy of guild dungeon
+draft strategy of SevenKnights
